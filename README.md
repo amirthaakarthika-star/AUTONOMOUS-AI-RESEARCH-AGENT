@@ -37,5 +37,4 @@ git clone <your-repo-url>
 cd autonomous-ai-research-agent
 pip install -r requirements.txt
 
-##LICENSE
-   This project is for educational and portfolio use
+
