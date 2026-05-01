@@ -8,6 +8,10 @@ An AI-powered research assistant that turns a topic into a structured, source-ba
 [![Groq](https://img.shields.io/badge/Groq-LLM_API-orange)](#environment-variables)
 [![Tavily](https://img.shields.io/badge/Tavily-Web_Search-green)](#environment-variables)
 
+## Live Demo
+
+Try the app here: [Live Demo](https://autonomous-ai-research-agent-kwevppv5qztodk6mdhvieg.streamlit.app/)
+
 ## Overview
 
 This project is built for fast research tasks such as competitor analysis, market research, and trend reports. Instead of manually opening many tabs, collecting notes, and writing a report from scratch, the agent runs an autonomous workflow and produces a clean research document.
